@@ -2,6 +2,11 @@
 title: "Netra Bhandari"
 ---
 
-I am a PhD student in the Environmental Informatics lab at Univeristy of Marbrug. I am currently working in two projects , Kilimanjaro Socio-Ecological Systems and RIPA2TAN. I deal mainly with spatio-temporal data analysis. 
+
+
+I am a PhD student in the Environmental Informatics lab at Univeristy of Marburg. I am currently working in two projects, Kilimanjaro Socio-Ecological Systems and RIPA2TAN. I deal mainly with spatio-temporal data analysis. 
+
+[Twitter](https://twitter.com/netra1128)
+[Linkedin](www.linkedin.com/in/netra805)
 
 

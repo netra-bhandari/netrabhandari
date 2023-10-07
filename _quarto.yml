@@ -11,6 +11,7 @@ website:
       - pubs.qmd
       - about.qmd
 
+
 format:
   html:
     theme: cosmo
