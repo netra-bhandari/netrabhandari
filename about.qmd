@@ -7,8 +7,6 @@ title: "CV"
 Education
 
 2021-Ongoing PhD in Environmental Informatics
-             [Kilimanjaro Socio Ecological Systems](https://kili-ses.senckenberg.de/)
-             [RIPA2TAN](https://www.uni-marburg.de/de/fb20/bereiche/ziei/zentrallabor/kooperation-tansania/projekte)
 
 2018-2021 M.Sc. Global Change Ecology
           University of Bayreuth
