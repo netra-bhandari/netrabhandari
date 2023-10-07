@@ -1,12 +1,14 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "../netrabhandari"
+  title: "Netra Bhandari"
   navbar:
     left:
       - href: index.qmd
         text: Home
+      - pubs.qmd
       - about.qmd
 
 format:
