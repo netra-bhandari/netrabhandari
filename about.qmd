@@ -1,10 +1,8 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 ---
 
-# Curriculum Vitae
-
-Education
+## Education
 
 2021-Ongoing PhD in Environmental Informatics
 
@@ -18,7 +16,7 @@ Education
           University of Delhi
           
 
-Work Experiences
+## Work Experiences
 
 2021-Ongoing Research Assistant, Univeristy of Marburg
 
@@ -26,14 +24,14 @@ Work Experiences
           Indian Institute of Science Education and Research
 
 
-Programming lanuages
+## Programming lanuages
 R, Python, Javascript, SQL
 
-Language literacy
+## Language literacy
 
 English, Hindi and German
 
-Schoalrships
+## Schoalrships
 
 2018-2020 International Students Scholarship
           University of Bayreuth

@@ -9,9 +9,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "Curriculum Vitae\nEducation\n2021-Ongoing PhD in Environmental Informatics\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi\nWork Experiences\n2021-Ongoing Research Assistant, Univeristy of Marburg\n2017-2018 Junior Research Fellowship Indian Institute of Science Education and Research\nProgramming lanuages R, Python, Javascript, SQL\nLanguage literacy\nEnglish, Hindi and German\nSchoalrships\n2018-2020 International Students Scholarship University of Bayreuth\n2017-2018 Junior Research Fellowship\n2015 DU scholarship"
+    "text": "2021-Ongoing PhD in Environmental Informatics\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi"
   },
   {
     "objectID": "pubs.html",
@@ -23,22 +23,36 @@
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "CV",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "2021-Ongoing PhD in Environmental Informatics Kilimanjaro Socio Ecological Systems RIPA2TAN\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi"
+    "text": "2021-Ongoing PhD in Environmental Informatics\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi"
   },
   {
     "objectID": "about.html#work-experiences",
     "href": "about.html#work-experiences",
-    "title": "CV",
-    "section": "",
-    "text": "2021-Ongoing Research Assistant, Univeristy of Marburg\n2017-2018 Junior Research Fellowship Indian Institute of Science Education and Research"
+    "title": "Curriculum Vitae",
+    "section": "Work Experiences",
+    "text": "Work Experiences\n2021-Ongoing Research Assistant, Univeristy of Marburg\n2017-2018 Junior Research Fellowship Indian Institute of Science Education and Research"
   },
   {
     "objectID": "about.html#programming-lanuages",
     "href": "about.html#programming-lanuages",
-    "title": "CV",
-    "section": "",
-    "text": "R, Python, Javascript, SQL"
+    "title": "Curriculum Vitae",
+    "section": "Programming lanuages",
+    "text": "Programming lanuages\nR, Python, Javascript, SQL"
+  },
+  {
+    "objectID": "about.html#language-literacy",
+    "href": "about.html#language-literacy",
+    "title": "Curriculum Vitae",
+    "section": "Language literacy",
+    "text": "Language literacy\nEnglish, Hindi and German"
+  },
+  {
+    "objectID": "about.html#schoalrships",
+    "href": "about.html#schoalrships",
+    "title": "Curriculum Vitae",
+    "section": "Schoalrships",
+    "text": "Schoalrships\n2018-2020 International Students Scholarship University of Bayreuth\n2017-2018 Junior Research Fellowship\n2015 DU scholarship"
   }
 ]
