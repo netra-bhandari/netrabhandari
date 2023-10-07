@@ -2,9 +2,10 @@
 title: "CV"
 ---
 
-Curriculum Vitae
+# Curriculum Vitae
 
-# Education
+## Education
+
 2021-Ongoing PhD in Environmental Informatics
              [Kilimanjaro Socio Ecological Systems](https://kili-ses.senckenberg.de/)
              [RIPA2TAN](https://www.uni-marburg.de/de/fb20/bereiche/ziei/zentrallabor/kooperation-tansania/projekte)
@@ -19,7 +20,7 @@ Curriculum Vitae
           University of Delhi
           
 
-# Work Experiences
+## Work Experiences
 
 2021-Ongoing Research Assistant, Univeristy of Marburg
 
@@ -27,7 +28,7 @@ Curriculum Vitae
           Indian Institute of Science Education and Research
 
 
-# Programming lanuages
+## Programming lanuages
 R, Python, Javascript, SQL
 
 # Language literacy
