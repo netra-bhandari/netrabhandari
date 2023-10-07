@@ -4,4 +4,41 @@ title: "CV"
 
 Curriculum Vitae
 
+# Education
 2021-Ongoing PhD in Environmental Informatics
+             [Kilimanjaro Socio Ecological Systems](https://kili-ses.senckenberg.de/)
+             [RIPA2TAN](https://www.uni-marburg.de/de/fb20/bereiche/ziei/zentrallabor/kooperation-tansania/projekte)
+
+2018-2021 M.Sc. Global Change Ecology
+          University of Bayreuth
+
+2015-2017 M.Sc. Environmental Studies
+          Univeristy of Delhi
+
+2012-2015 B.Sc. Life Sciences
+          University of Delhi
+          
+
+# Work Experiences
+
+2021-Ongoing Research Assistant, Univeristy of Marburg
+
+2017-2018 Junior Research Fellowship
+          Indian Institute of Science Education and Research
+
+
+# Programming lanuages
+R, Python, Javascript, SQL
+
+# Language literacy
+
+English, Hindi and German
+
+# Schoalrships
+
+2018-2020 International Students Scholarship
+          University of Bayreuth
+          
+2017-2018 Junior Research Fellowship
+
+2015      DU scholarship 
