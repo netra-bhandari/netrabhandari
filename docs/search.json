@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Netra Bhandari",
     "section": "",
-    "text": "I am a PhD student in the Environmental Informatics lab at Univeristy of Marburg. I am currently working in two projects, Kilimanjaro Socio-Ecological Systems and RIPA2TAN. I deal mainly with spatio-temporal data analysis.\nTwitter Linkedin"
+    "text": "I am a PhD student in the Environmental Informatics lab at Univeristy of Marburg. I am currently working in two projects, Kilimanjaro Socio-Ecological Systems and RIPA2TAN. I deal mainly with spatio-temporal data analysis."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "CV",
     "section": "",
-    "text": "Curriculum Vitae\n2021-Ongoing PhD in Environmental Informatics"
+    "text": "Curriculum Vitae\nEducation\n2021-Ongoing PhD in Environmental Informatics Kilimanjaro Socio Ecological Systems RIPA2TAN\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi\nWork Experiences\n2021-Ongoing Research Assistant, Univeristy of Marburg\n2017-2018 Junior Research Fellowship Indian Institute of Science Education and Research\nProgramming lanuages R, Python, Javascript, SQL\nLanguage literacy\nEnglish, Hindi and German\nSchoalrships\n2018-2020 International Students Scholarship University of Bayreuth\n2017-2018 Junior Research Fellowship\n2015 DU scholarship"
   },
   {
     "objectID": "pubs.html",
@@ -19,5 +19,26 @@
     "title": "Publications",
     "section": "",
     "text": "Decision-making of citizen scientists when recording species observationsDecision-making of citizen scientists when recording species observations Nature Scientific Reports · Jun 30, 2022 https://doi.org/10.1038/s41598-022-15218-2\nTemporal trends in the spatial bias of species occurrence recordsTemporal trends in the spatial bias of species occurrence records Ecography · May 20, 2022 https://doi.org/10.1111/ecog.06219\nNeonicotinoid Insecticides: Environmental Perspective International Journal of Plant and Environment · Jul 1, 2018 International Journal of Plant and Environment · Jul 1, 2018 DOI: 10.18811/ ijpen.v4i02.12"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "CV",
+    "section": "",
+    "text": "2021-Ongoing PhD in Environmental Informatics Kilimanjaro Socio Ecological Systems RIPA2TAN\n2018-2021 M.Sc. Global Change Ecology University of Bayreuth\n2015-2017 M.Sc. Environmental Studies Univeristy of Delhi\n2012-2015 B.Sc. Life Sciences University of Delhi"
+  },
+  {
+    "objectID": "about.html#work-experiences",
+    "href": "about.html#work-experiences",
+    "title": "CV",
+    "section": "",
+    "text": "2021-Ongoing Research Assistant, Univeristy of Marburg\n2017-2018 Junior Research Fellowship Indian Institute of Science Education and Research"
+  },
+  {
+    "objectID": "about.html#programming-lanuages",
+    "href": "about.html#programming-lanuages",
+    "title": "CV",
+    "section": "",
+    "text": "R, Python, Javascript, SQL"
   }
 ]

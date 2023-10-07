@@ -19,8 +19,6 @@ about:
       href: "mailto:netra805@gmail.com"  
 ---
 
-
-
 I am a PhD student in the Environmental Informatics lab at Univeristy of Marburg. I am currently working in two projects, Kilimanjaro Socio-Ecological Systems and RIPA2TAN. I deal mainly with spatio-temporal data analysis. 
 
 
