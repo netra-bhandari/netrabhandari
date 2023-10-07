@@ -1,5 +1,22 @@
 ---
 title: "Netra Bhandari"
+about:
+  template: jolla
+  id: about-block
+  image: bhandari.jpeg
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/netra1128
+    - icon: github
+      text: Github
+      href: https://github.com/netra-bhandari
+    - icon: linkedin
+      text: LinkedIn
+      href: www.linkedin.com/in/netra805
+    - icon: envelope
+      text: Email
+      href: "mailto:netra805@gmail.com"  
 ---
 
 
